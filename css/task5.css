@@ -1,0 +1,51 @@
+body{
+  background-color:black;
+}
+.file1{
+  position:absolute;
+  width:1350px;
+  height:900px;
+right:400px;
+bottom:80px;
+}
+.file2{
+  position:absolute;
+  width:1350px;
+  height:900px;
+  left:400px;
+right:400px;
+bottom:100px;
+}
+.file3{
+  position:absolute;
+  width:1700px;
+  height:1100px;
+right:400px;
+top:200px;
+z-index:10;
+}
+
+.file4{
+  position:absolute;
+  width:1200px;
+  height:800px;
+  left:500px;
+top:400px;
+}
+
+.file5{
+  position:absolute;
+  width:1200px;
+  height:800px;
+  top:0px;
+left:200px;
+z-index:15;
+}
+.file6{
+  position:absolute;
+  width:1200px;
+  height:800px;
+  top:600px;
+  right:400px;
+z-index:1;
+}

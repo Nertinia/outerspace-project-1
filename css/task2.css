@@ -1,0 +1,149 @@
+body{
+  background-color:black;
+  font-family: orbitron, sans-serif;
+font-style: normal;
+}
+
+.background{
+  position:absolute;
+  width:1500px;
+  height:900px;
+  opacity:0.6;
+bottom:30px;
+}
+
+.box{
+  position:absolute;;
+  background-color: black;
+  width:1500px;
+  height:800px;
+  opacity:0.5;
+  z-index:1;
+}
+
+.frame{
+  position:absolute;
+  width:1500px;
+  height:1000px;
+top:0px;
+  z-index:2;
+}
+h1{
+  position:absolute;
+  color:#182ec7;
+  font-weight:300px;
+  font-size:35px;
+  top:400px;
+  left:400px;
+  z-index:20;
+}
+h2{
+  position:absolute;
+  color:#182ec7;
+  font-weight:300px;
+  font-size:35px;
+  top:450px;
+  left:400px;
+  z-index:20;
+}
+h3{
+  position:absolute;
+  color:white;
+  font-weight:50px;
+  font-size:15px;
+  top:350px;
+  left:780px;
+  opacity:0.8;
+  z-index:20;
+}
+
+h4{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:390px;
+  left:780px;
+  opacity:0.8;
+  z-index:20;
+}
+h5{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:410px;
+  left:868px;
+  opacity:0.8;
+  z-index:20;
+}
+h6{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:450px;
+  left:780px;
+  opacity:0.8;
+  z-index:20;
+}
+h7{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:510px;
+  left:868px;
+  opacity:0.8;
+  z-index:20;
+}
+h8{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:550px;
+  left:780px;
+  opacity:0.8;
+  z-index:20;
+}
+h9{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:590px;
+  left:780px;
+  opacity:0.8;
+  z-index:20;
+}
+h10{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:615px;
+  left:868px;
+  opacity:0.8;
+  z-index:20;
+}
+h11{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:655px;
+  left:780px;
+  opacity:0.8;
+  z-index:20;
+}
+h12{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:680px;
+  left:868px;
+  opacity:0.8;
+  z-index:20;
+}
+h13{
+  position:absolute;
+  color:white;
+  font-size:15px;
+  top:705px;
+  left:868px;
+  opacity:0.8;
+  z-index:20;
+}
